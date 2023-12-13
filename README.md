@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvvsh&label=You're%20Visitor&color=5b95b9&style=plastic" alt="dhruvvsh" /> </p>
 
+<img align="right" width="400" src="https://www.google.com/url?
+sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw36jcrUU86fk0ROzOKhenbM&ust=1697954865985000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiq6Pa8hoIDFQAAAAAdAAAAABAJ">
+
 - 🌱 I’m currently learning **Data Analysis and its tools**
 
 - 💬 Ask me about **any data structures**
